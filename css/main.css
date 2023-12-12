@@ -1,0 +1,89 @@
+.topnav{
+    background-color: antiquewhite;
+    overflow: hidden;
+}
+.buttons{
+    background-color: azure;
+    color: black;
+    border: none;
+    padding: 10px 24px;
+    margin-right: 15px;
+}
+
+.main-container{
+    height: 100px;
+    padding-top: 40px;
+}
+.container-item{
+    position: absolute;
+    
+}
+.home-item{
+    margin-left: 300px;
+}
+.button-item{
+    left: 1000px;
+}
+.buttons-items{
+    position: absolute;
+}
+.outs-item{
+    left: 600px;
+}
+.rev-item{
+    left: 900px;
+}
+.main-div{
+    margin-top: 20px;
+    
+}
+.n-button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 24px;
+    border-radius: 3px;
+}
+.my-buttons{
+    background-color: blanchedalmond;
+    color: black;
+    border: none;
+    padding: 10px 70px;
+    border-radius: 4px;
+    text-align: left;
+}
+.main-div{
+    height: 100px;
+}
+.invoice-item{
+    position: absolute;
+}
+.v-item{
+    left: 700px;
+}
+.d-item{
+    left: 900px;
+}
+.main-invoice{
+    margin-bottom: 20px;
+}
+.smashing-div{
+    margin-left: 700px;
+}
+.s-button{
+    padding: 20px 30px;
+    font-weight: bold;
+    text-align: left;
+}
+.d-span{
+    padding: 8px;
+}
+.l-span{
+    font-weight: normal;
+    padding: 10px;
+}
+
+
+
+
+
